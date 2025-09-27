@@ -40,7 +40,7 @@
 ## 项目结构
 
 ```
-Yxc_C++/
+ChatSimulation/
 ├── main.cpp               # 主程序入口，菜单与流程控制
 ├── User_yxc.cpp           # 用户基类实现
 ├── QQ_yxc.cpp             # QQ平台功能实现
