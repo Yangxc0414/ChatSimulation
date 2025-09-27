@@ -1,0 +1,23 @@
+password: 123
+name: 哆啦B梦
+ID: 1002
+WeChatID: 
+birthTime: 1113408000
+location: 长春
+firstTime: 1734535407
+status: 在线
+privacySettings: 2
+blogs public
+moments private
+blockedUsers: 0
+qqFriends: 2
+1001 新好友
+1003 哆啦B梦
+wechatFriends: 1
+1001 123
+weiboFriends: 0
+services: 3
+QQ
+WeChat
+Weibo
+notifications: 0

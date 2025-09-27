@@ -1,0 +1,9 @@
+GroupID: 888
+OwnerID: 1001
+Platform: WeChat
+IsQQGroup: 0
+IsOpen: 1
+Members: 1
+1001
+Admins: 1
+1001

@@ -1,0 +1,9 @@
+GroupID: 999
+OwnerID: 1001
+Platform: Weibo
+IsQQGroup: 0
+IsOpen: 0
+Members: 1
+1001
+Admins: 1
+1001

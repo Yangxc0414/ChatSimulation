@@ -1,0 +1,9 @@
+GroupID: 1002
+OwnerID: 1001
+Platform: QQ
+IsQQGroup: 1
+IsOpen: 0
+Members: 1
+1001
+Admins: 1
+1001

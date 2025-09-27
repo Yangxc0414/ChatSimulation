@@ -1,0 +1,22 @@
+password: 123
+name: 哆啦C梦
+ID: 1004
+WeChatID: 
+birthTime: 978278400
+location: 上海
+firstTime: 1734615761
+status: 在线
+privacySettings: 2
+blogs public
+moments friends
+blockedUsers: 0
+qqFriends: 1
+1001 新好友
+wechatFriends: 0
+weiboFriends: 0
+services: 3
+QQ
+WeChat
+Weibo
+notifications: 1
+您的好友请求已被 1001 接受。
